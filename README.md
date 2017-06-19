@@ -35,14 +35,14 @@ Learn about the whys, whats, and hows of OpenTracing.
 
 Learn how to start with OpenTracing in your applications
 
-* Exercise: [Tracing functions](exercises/functions) [go]() [js](#)
-* Exercise: [Tracing HTTP](exercises/http) [go](#) [js](#)
+* Exercise: Tracing functions
+* Exercise: Tracing HTTP
 
 ### Hands on: More Tracing Concepts
 
 Expand on the knowledge learned in the first section to configure and implement OpenTracing in a database-backed application.
 
-* Exercise: [People Catalog](exercises/apps) [go](#) [js](#)
+* Exercise: People Catalog
 * Instrumenting everything
 
 ### Discussion / Lessons Learned
