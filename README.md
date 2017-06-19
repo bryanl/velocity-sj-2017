@@ -31,6 +31,16 @@ Make sure to log in to the [workshop tracing chat](https://gitter.im/Velocity-SJ
 
 Learn about the whys, whats, and hows of OpenTracing.
 
+#### Jaeger HotRod Demo
+
+```
+go get github.com/uber/jaeger
+cd $GOPATH/src/github.com/uber/jaeger
+make install_examples
+cd examples/hotrod
+go run ./main.go all
+```
+
 ### Hands on: Tracing Concepts
 
 Learn how to start with OpenTracing in your applications
