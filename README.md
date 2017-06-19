@@ -24,6 +24,7 @@ Developers are expected to:
 Make sure to log in to the [workshop tracing chat](https://gitter.im/Velocity-SJ-OpenTracing/Lobby) to ask questions and get answers.
 
 * Using Go? https://github.com/bryanl/apptracing-go
+* Using Python? https://github.com/bryanl/apptracing-py
 
 ## Program
 
